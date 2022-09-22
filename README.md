@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
 </head>
 <body>
 <h1 align="center">Hello, I'm Rajat Balda</h1>
