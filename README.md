@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajatbalda" target="blank"><img src="https://img.shields.io/twitter/follow/rajatbalda?logo=twitter&style=for-the-badge" alt="rajatbalda" /></a> </p>
 
-- 📫 How to reach me **contact@rajatbalda.in**
+- 📫 Reach me --> contact@rajatbalda.in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
