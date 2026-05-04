@@ -5,9 +5,6 @@
 
 <!-- SOCIALS -->
 <div align="center">
-  <a href="https://linkedin.com/in/rajatbalda">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:contact@rajatbalda.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -22,7 +19,7 @@
 <div align="center">
   <h3>🚀 About Me</h3>
   <p>
-    I am an <strong>AI/ML Engineer</strong> with 4+ years of experience specializing in fusing <strong>Computer Vision</strong> and <strong>NLP</strong>. <br>
+    I am an <strong>AI/ML Engineer</strong> specializing in fusing <strong>Computer Vision</strong> and <strong>NLP</strong>. <br>
     I architect robust data pipelines and deploy production-grade diagnostic models using <strong>GenAI</strong> and <strong>Cloud Infrastructure</strong>.
   </p>
 </div>
